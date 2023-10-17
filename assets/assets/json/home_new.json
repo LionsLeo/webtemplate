@@ -1,0 +1,45 @@
+{
+    "title": "Presenting the next-gen",
+    "subtitle": "user analytics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor ex libero, eu dictum augue auctor sit amet. Duis aliquet eget libero non dictum. Suspendisse iaculis porttitor pellentesque. Donec auctor, erat sed ultricies pretium, augue ante aliquet velit, eu ullamcorper nunc ipsum nec purus. Nullam in velit et est vehicula hendrerit. Curabitur consectetur ligula venenatis bibendum mattis.",
+    "what-we-do": {
+        "title":"What we do?",
+        "data": [
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            }
+        ]
+    },
+    "about-us": 
+        {
+            "title": "About Us",
+            "subtitle": "Iaculis scelerisque nisl nisl ut etiam eget interdum tortor enim enim quis purus orci eget est elit orci tempus sit fringilla porttitor lacinia vitae. \n\naccumsan auctor sit ornare tempor lectus volutpat id mauris nullam venenatis rutrum adipiscing egestas viverra quis morbi leo pretium libero velit nulla eget et ornare gravida. ",
+            "numbers": {
+                "placeholder1": {
+                    "title": "Worldwide offices",
+                    "number": "200",
+                    "plusInFront": false
+                },
+                "placeholder2": {
+                    "title": "Team Members",
+                    "number": "85",
+                    "plusInFront": false
+                },
+                "placeholder3": {
+                    "title": "Capital raised",
+                    "number": "10M",
+                    "plusInFront": true
+                },
+                "placeholder4": {
+                    "title": "Active users",
+                    "number": "500K",
+                    "plusInFront": true
+                }
+            }
+        }
+    ,
+    "testimonial": {
+        "title": "What our clients say"
+    }
+}
