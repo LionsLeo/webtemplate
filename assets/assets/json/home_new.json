@@ -1,0 +1,101 @@
+{
+    "title": "Presenting the next-gen",
+    "subtitle": "user analytics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor ex libero, eu dictum augue auctor sit amet. Duis aliquet eget libero non dictum. Suspendisse iaculis porttitor pellentesque. Donec auctor, erat sed ultricies pretium, augue ante aliquet velit, eu ullamcorper nunc ipsum nec purus. Nullam in velit et est vehicula hendrerit. Curabitur consectetur ligula venenatis bibendum mattis.",
+    "what-we-do": {
+        "title": "What we do?",
+        "data": [
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            },
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            },
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            },
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            },
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            },
+            {
+                "title": "UI/UX Design",
+                "subtitle": "Ut suscipit mi cursus hendrerit ac nuncol leo pellentesque mauris mattis."
+            }
+        ]
+    },
+    "about-us": {
+        "title": "About Us",
+        "subtitle": "Iaculis scelerisque nisl nisl ut etiam eget interdum tortor enim enim quis purus orci eget est elit orci tempus sit fringilla porttitor lacinia vitae. \n\naccumsan auctor sit ornare tempor lectus volutpat id mauris nullam venenatis rutrum adipiscing egestas viverra quis morbi leo pretium libero velit nulla eget et ornare gravida. ",
+        "numbers": {
+            "placeholder1": {
+                "title": "Worldwide offices",
+                "number": "200",
+                "plusInFront": false
+            },
+            "placeholder2": {
+                "title": "Team Members",
+                "number": "85",
+                "plusInFront": false
+            },
+            "placeholder3": {
+                "title": "Capital raised",
+                "number": "10M",
+                "plusInFront": true
+            },
+            "placeholder4": {
+                "title": "Active users",
+                "number": "500K",
+                "plusInFront": true
+            }
+        }
+    },
+    "testimonial": {
+        "title": "What our clients say",
+        "data": [
+            {
+                "title": "\"Totally Recommended\"",
+                "desc": "Lorem ipsum dolor sit amet consectetur amet odio ante nunc enim quam diam dui tempor nisi risus bibendum cursus ac non tortor posuere fringilla donec enim congue morbi netus sit non quis.",
+                "name": "Meet Gada",
+                "designation": "Associate - Sharekhan",
+                "rating": 2,
+                "profile-picture": "https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg"
+            },
+            {
+                "title": "\"Totally Recommended\"",
+                "desc": "Lorem ipsum dolor sit amet consectetur amet odio ante nunc enim quam diam dui tempor nisi risus bibendum cursus ac non tortor posuere fringilla donec enim congue morbi netus sit non quis.",
+                "name": "Meet Gada",
+                "designation": "Associate - Sharekhan",
+                "rating": 4,
+                "profile-picture": "https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg"
+            },
+            {
+                "title": "\"Totally Recommended\"",
+                "desc": "Lorem ipsum dolor sit amet consectetur amet odio ante nunc enim quam diam dui tempor nisi risus bibendum cursus ac non tortor posuere fringilla donec enim congue morbi netus sit non quis.",
+                "name": "Meet Gada",
+                "designation": "Associate - Sharekhan",
+                "rating": 4,
+                "profile-picture": "https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg"
+            }
+        ]
+    },
+    "contact-us": {
+        "title": "Let's work\ntogether 🙌🏻",
+        "contact-info": {
+            "title": "Contact Info",
+            "email": "📧 meet.gada@sharekhan.com",
+            "phone": "📞 +91 81693883835"
+        },
+        "our-office": {
+            "title": "Our Office",
+            "address": "📍 Airoli, Gigaplex, Mindspace, Building no 9, Thane."
+        }
+    }
+}
