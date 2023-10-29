@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Happy Clients",
+    "value": 110,
+    "suffix": "+",
+    "icon" : "0xe252"
+  },
+  {
+    "title": "Services",
+    "value": 10,
+    "suffix": "+",
+    "icon" : "0xefaf"
+  },
+  {
+    "title": "Cities",
+    "value": 40,
+    "suffix": "+",
+    "icon" : "0xf190"
+  },
+  {
+    "title": "Ratings",
+    "value": 4,
+    "suffix": "+",
+    "icon" : "0xf3dc"
+  }
+]
